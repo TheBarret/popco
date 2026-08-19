@@ -21,8 +21,11 @@ Auto-generates a new file if absent, controls the colors and theme settings.
 
 The app has a few fonts defined that can be changed in the source/settings.  
 
+**Fonts: ShareTechMono-Regular.ttf comes with its own license file**  
+
 ```sh
 sudo apt install libsdl2-dev libsdl2-ttf-dev
 make
 ./monitor
 ```
+
