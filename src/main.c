@@ -7,7 +7,7 @@
 #include "config.h"
 #include "stats.h"
 #include "render.h"
-#include "crt_effects.h"
+#include "effects.h"
 
 #define WINDOW_TITLE  "PopCo Monitor"
 #define CONFIG_PATH   "popco.conf"
