@@ -1,5 +1,5 @@
 #define _DEFAULT_SOURCE
-#include "stats.h"
+#include "../include/stats.h"
 #include <stdio.h>
 #include <unistd.h>
 #include <sys/sysinfo.h>

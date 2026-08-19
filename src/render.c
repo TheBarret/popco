@@ -1,4 +1,4 @@
-#include "render.h"
+#include "../include/render.h"
 #include <stdio.h>
 
 #define BASE_W 640.0f

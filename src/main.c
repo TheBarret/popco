@@ -4,10 +4,10 @@
 #include <stdbool.h>
 #include <stdlib.h>
 
-#include "config.h"
-#include "stats.h"
-#include "render.h"
-#include "effects.h"
+#include "../include/config.h"
+#include "../include/stats.h"
+#include "../include/render.h"
+#include "../include/effects.h"
 
 #define WINDOW_TITLE  "PopCo Monitor"
 #define CONFIG_PATH   "popco.conf"

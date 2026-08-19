@@ -1,4 +1,4 @@
-#include "effects.h"
+#include "../include/effects.h"
 #include <math.h>
 #include <stdlib.h>
 
