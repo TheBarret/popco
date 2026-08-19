@@ -1,4 +1,4 @@
-#include "crt_effects.h"
+#include "effects.h"
 #include <math.h>
 #include <stdlib.h>
 
