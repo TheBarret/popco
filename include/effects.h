@@ -1,5 +1,5 @@
-#ifndef EFFECTS_H
-#define EFFECTS_H
+#ifndef CRT_EFFECTS_H
+#define CRT_EFFECTS_H
 
 #include <SDL2/SDL.h>
 #include "config.h"
