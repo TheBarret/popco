@@ -2,7 +2,7 @@ CC := gcc
 CFLAGS := -std=c11 -Wall -Wextra -O2 $(shell pkg-config --cflags sdl2 SDL2_ttf 2>/dev/null)
 LDFLAGS := $(shell pkg-config --libs sdl2 SDL2_ttf 2>/dev/null) -lm
 
-SRCS := main.c config.c stats.c render.c crt_effects.c
+SRCS := ./src/main.c ./src/config.c ./src/stats.c ./src/render.c ./src/effects.c
 OBJS := $(SRCS:.c=.o)
 TARGET := monitor
 
